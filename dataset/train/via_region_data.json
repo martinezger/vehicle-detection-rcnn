@@ -1,0 +1,821 @@
+{
+    "object_2_64775.png55696": {
+        "filename": "object_2_64775.png",
+        "size": 55696,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        78,
+                        98,
+                        116,
+                        145,
+                        152,
+                        154,
+                        150,
+                        142,
+                        114,
+                        79
+                    ],
+                    "all_points_y": [
+                        56,
+                        150,
+                        155,
+                        154,
+                        151,
+                        111,
+                        100,
+                        77,
+                        41,
+                        40
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_64311.png54978": {
+        "filename": "object_2_64311.png",
+        "size": 54978,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        113,
+                        138,
+                        136,
+                        127,
+                        115,
+                        80,
+                        79,
+                        88,
+                        92
+                    ],
+                    "all_points_y": [
+                        144,
+                        142,
+                        120,
+                        80,
+                        57,
+                        57,
+                        85,
+                        126,
+                        139
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_57351.png54520": {
+        "filename": "object_2_57351.png",
+        "size": 54520,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        101,
+                        119,
+                        119,
+                        107,
+                        83,
+                        86,
+                        90
+                    ],
+                    "all_points_y": [
+                        133,
+                        130,
+                        112,
+                        93,
+                        89,
+                        106,
+                        127
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_86491.png56468": {
+        "filename": "object_1_86491.png",
+        "size": 56468,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        72,
+                        75,
+                        74,
+                        77,
+                        87,
+                        104,
+                        106,
+                        109,
+                        109,
+                        103,
+                        106,
+                        97
+                    ],
+                    "all_points_y": [
+                        44,
+                        56,
+                        75,
+                        95,
+                        102,
+                        102,
+                        88,
+                        85,
+                        77,
+                        72,
+                        58,
+                        45
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_73683.png56446": {
+        "filename": "object_1_73683.png",
+        "size": 56446,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        122,
+                        105,
+                        103,
+                        96,
+                        101,
+                        118,
+                        127,
+                        134,
+                        136
+                    ],
+                    "all_points_y": [
+                        136,
+                        134,
+                        116,
+                        103,
+                        99,
+                        94,
+                        103,
+                        117,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_65303.png55806": {
+        "filename": "object_1_65303.png",
+        "size": 55806,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        125,
+                        108,
+                        98,
+                        94,
+                        98,
+                        123,
+                        132,
+                        138,
+                        141
+                    ],
+                    "all_points_y": [
+                        132,
+                        132,
+                        112,
+                        96,
+                        80,
+                        80,
+                        94,
+                        115,
+                        128
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_64963.png54126": {
+        "filename": "object_1_64963.png",
+        "size": 54126,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        119,
+                        104,
+                        98,
+                        91,
+                        95,
+                        109,
+                        119,
+                        125,
+                        131,
+                        133
+                    ],
+                    "all_points_y": [
+                        135,
+                        134,
+                        116,
+                        96,
+                        88,
+                        85,
+                        87,
+                        105,
+                        119,
+                        127
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_57599.png53059": {
+        "filename": "object_1_57599.png",
+        "size": 53059,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        155,
+                        127,
+                        105,
+                        105,
+                        125,
+                        152,
+                        153
+                    ],
+                    "all_points_y": [
+                        88,
+                        89,
+                        61,
+                        39,
+                        34,
+                        55,
+                        70
+                    ]
+                },
+                "region_attributes": {
+                    "name": "bus"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_56971.png55612": {
+        "filename": "object_1_56971.png",
+        "size": 55612,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        90,
+                        107,
+                        111,
+                        102,
+                        96,
+                        73,
+                        73,
+                        75
+                    ],
+                    "all_points_y": [
+                        93,
+                        93,
+                        66,
+                        40,
+                        21,
+                        16,
+                        35,
+                        89
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_56603.png55482": {
+        "filename": "object_1_56603.png",
+        "size": 55482,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        91,
+                        108,
+                        108,
+                        93,
+                        72,
+                        70,
+                        72,
+                        73
+                    ],
+                    "all_points_y": [
+                        104,
+                        103,
+                        67,
+                        28,
+                        26,
+                        53,
+                        81,
+                        100
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_53487.png55981": {
+        "filename": "object_1_53487.png",
+        "size": 55981,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        89,
+                        103,
+                        95,
+                        80,
+                        80
+                    ],
+                    "all_points_y": [
+                        103,
+                        99,
+                        70,
+                        72,
+                        95
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_53115.png54708": {
+        "filename": "object_1_53115.png",
+        "size": 54708,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        93,
+                        110,
+                        109,
+                        95,
+                        66,
+                        70,
+                        71
+                    ],
+                    "all_points_y": [
+                        113,
+                        111,
+                        60,
+                        29,
+                        31,
+                        57,
+                        109
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_49543.png56622": {
+        "filename": "object_1_49543.png",
+        "size": 56622,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        111,
+                        131,
+                        128,
+                        123,
+                        108,
+                        76,
+                        74,
+                        86
+                    ],
+                    "all_points_y": [
+                        136,
+                        132,
+                        103,
+                        66,
+                        46,
+                        49,
+                        78,
+                        131
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_49223.png54917": {
+        "filename": "object_1_49223.png",
+        "size": 54917,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        110,
+                        127,
+                        129,
+                        103,
+                        80,
+                        78,
+                        88
+                    ],
+                    "all_points_y": [
+                        122,
+                        121,
+                        68,
+                        31,
+                        29,
+                        64,
+                        120
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_74535.png56271": {
+        "filename": "object_2_74535.png",
+        "size": 56271,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        108,
+                        122,
+                        122,
+                        122,
+                        105,
+                        80,
+                        89,
+                        88,
+                        103
+                    ],
+                    "all_points_y": [
+                        105,
+                        104,
+                        94,
+                        69,
+                        40,
+                        40,
+                        69,
+                        100,
+                        104
+                    ]
+                },
+                "region_attributes": {
+                    "name": "bus"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_74555.png57790": {
+        "filename": "object_2_74555.png",
+        "size": 57790,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        123,
+                        142,
+                        142,
+                        139,
+                        110,
+                        85,
+                        87,
+                        97,
+                        100
+                    ],
+                    "all_points_y": [
+                        135,
+                        134,
+                        115,
+                        90,
+                        51,
+                        49,
+                        74,
+                        131,
+                        135
+                    ]
+                },
+                "region_attributes": {
+                    "name": "bus"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_74591.png57445": {
+        "filename": "object_2_74591.png",
+        "size": 57445,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        99,
+                        96,
+                        125,
+                        173,
+                        173,
+                        137,
+                        102
+                    ],
+                    "all_points_y": [
+                        89,
+                        129,
+                        172,
+                        171,
+                        130,
+                        78,
+                        83
+                    ]
+                },
+                "region_attributes": {
+                    "name": "bus"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_63367.png54941": {
+        "filename": "object_1_63367.png",
+        "size": 54941,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        160,
+                        142,
+                        123,
+                        124,
+                        135,
+                        154,
+                        166,
+                        171,
+                        173,
+                        173
+                    ],
+                    "all_points_y": [
+                        119,
+                        119,
+                        80,
+                        58,
+                        54,
+                        61,
+                        75,
+                        81,
+                        101,
+                        118
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_57291.png55689": {
+        "filename": "object_1_57291.png",
+        "size": 55689,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        115,
+                        97,
+                        85,
+                        92,
+                        106,
+                        118,
+                        128,
+                        125
+                    ],
+                    "all_points_y": [
+                        138,
+                        135,
+                        110,
+                        96,
+                        93,
+                        102,
+                        128,
+                        134
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_53519.png56304": {
+        "filename": "object_1_53519.png",
+        "size": 56304,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        116,
+                        131,
+                        123,
+                        109,
+                        91,
+                        88,
+                        96
+                    ],
+                    "all_points_y": [
+                        158,
+                        151,
+                        117,
+                        103,
+                        106,
+                        121,
+                        155
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_3_19703.png58537": {
+        "filename": "object_3_19703.png",
+        "size": 58537,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        127,
+                        142,
+                        149,
+                        140,
+                        141,
+                        118,
+                        84,
+                        81,
+                        85,
+                        97,
+                        103
+                    ],
+                    "all_points_y": [
+                        163,
+                        157,
+                        131,
+                        110,
+                        99,
+                        68,
+                        69,
+                        93,
+                        117,
+                        151,
+                        159
+                    ]
+                },
+                "region_attributes": {
+                    "name": "truck"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_2_14651.png58016": {
+        "filename": "object_2_14651.png",
+        "size": 58016,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        125,
+                        140,
+                        139,
+                        124,
+                        88,
+                        96,
+                        103
+                    ],
+                    "all_points_y": [
+                        162,
+                        159,
+                        134,
+                        106,
+                        108,
+                        147,
+                        162
+                    ]
+                },
+                "region_attributes": {
+                    "name": "car"
+                }
+            }
+        ],
+        "file_attributes": {}
+    },
+    "object_1_12515.png54721": {
+        "filename": "object_1_12515.png",
+        "size": 54721,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        142,
+                        124,
+                        100,
+                        103,
+                        127,
+                        156,
+                        159
+                    ],
+                    "all_points_y": [
+                        96,
+                        94,
+                        62,
+                        40,
+                        33,
+                        58,
+                        88
+                    ]
+                },
+                "region_attributes": {
+                    "name": "bus"
+                }
+            }
+        ],
+        "file_attributes": {}
+    }
+}
