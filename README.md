@@ -5,6 +5,9 @@ This Module was created for a post graduate collage course I took, It implements
 sample video stream for this work was taken from a live cameras installed in the General Belgrano bridge this one link two province 
 of Argentina, Chaco and Corrientes. [youtube channel of the live stream](https://www.youtube.com/watch?v=3FOSfwx2DEg).
 
+This project is divided in two steps, one is a motion detection algorithm for getting samples pictures for create a dataset 
+to train and evaluate and the second is the Mask RCNN implementation for train and predict.
+
 ## Motion Detection
 For create a dataset to train and evaluate I use [motion_detection.ipynb](motion_detection.ipynb) notebook, the motion detection
 developed here is base on this [blog post](https://www.analyticsvidhya.com/blog/2020/04/vehicle-detection-opencv-python/),
@@ -15,6 +18,8 @@ After the video is processed I got more than one thousand pictures to use for th
 
 The Mask CRNN developed in [vehicle_detection.ipynb](vehicle_detection.ipynb) is base on [Matterport](https://github.com/matterport/Mask_RCNN)
 implementation and I follow the [ballon](https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon) example. 
+For made the installation simplier and do not fight with dependencies issues I packaged the matterport project and uploaded to 
+pypi with the name `mrcnn-colab` the version 2.1 match with the matterport version at the moment of this project was relase.
 ### Train
 For training the model first you need create a class and extend from `mrcnn.Config.config` class and override the following variables.
 ```python
