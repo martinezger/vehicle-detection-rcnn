@@ -132,3 +132,6 @@ dmypy.json
 # video
 
 *.avi
+
+.idea*
+.DS_Store*
