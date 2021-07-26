@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github/martinezger/vehicle-detection-rcnn/blob/main/vehicle_detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # A vehicle detection Module
 This Module was created for a post graduate collage course I took, It implements Mask RCNN to detect cars, trucks and buses. The 
 sample video stream for this work was taken from a live cameras installed in the General Belgrano bridge this one link two province 
@@ -39,7 +41,7 @@ The annotations file use by the train were created with [VGG Image Annotator (VI
 this implementation for the sake of simplicity only accept one class per picture.
 
 #### Results
-the results of the traning will be a `weight` file located in the `logs` folder, some similar to `mask_rcnn_NAME_XXX.h5`
+the results of the traning will be a `weight` file located in the `logs` folder, something similar to `mask_rcnn_NAME_XXX.h5`
 this one could be relativily large araund 450MB. This one will be use for `predict`.  
 
 ### Predict
