@@ -47,7 +47,7 @@ this implementation for the sake of simplicity only accept one class per picture
 
 #### Results
 the results of the traning will be a `weight` file located in the `logs` folder, something similar to `mask_rcnn_NAME_XXX.h5`
-this one could be relativily large araund 450MB. This one will be use for `predict`.  
+this one could be relativily large around 450MB. This one will be use for `predict`.  
 
 ### Predict
 Last cell in [vehicle_detection.ipynb](vehicle_detection.ipynb) is for make prediction for a given picture. In case you 
@@ -58,3 +58,7 @@ are running in colab be sure you upload the picture to the root folder before ru
 
 The above colab notebook is complete autmated and you just need to run cell by cell in order to train the model.
 
+### Extras 
+
+In case you want to experiment this outside the notebook I added the [train.py](train.py) and [predict.py](predict.py) modules
+to run it as standalone scripts.
