@@ -61,4 +61,4 @@ The above colab notebook is complete autmated and you just need to run cell by c
 ### Extras 
 
 In case you want to experiment this outside the notebook I added the [train.py](train.py) and [predict.py](predict.py) modules
-to run it as standalone scripts.
+tobe use as standalone scripts.
