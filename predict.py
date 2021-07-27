@@ -4,11 +4,9 @@ from mrcnn.visualize import display_instances
 from mrcnn.config import Config
 from mrcnn.model import MaskRCNN
 
-# define 81 classes that the coco model knowns about
 class_names = ['background', 'car', 'truck', 'bus']
 
 
-# define the test configuration
 class TestConfig(Config):
     NAME = "test"
     GPU_COUNT = 1
