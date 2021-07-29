@@ -5,20 +5,20 @@ This Module was created for a post graduate collage course I took, It implements
 sample video stream for this work was taken from a live cameras installed in the General Belgrano bridge this one link two province 
 of Argentina, Chaco and Corrientes. [youtube channel of the live stream](https://www.youtube.com/watch?v=3FOSfwx2DEg).
 
-This project is divided in two steps, first step is a motion detection algorithm for getting samples pictures for create a dataset 
-for training and evaluation and the second step is the Mask RCNN implementation.
+This project is divided in two steps, first step is a motion detection algorithm for getting samples pictures in order to create a dataset 
+for training and evaluation a [Mask RCNN](https://arxiv.org/abs/1703.06870) model.
 
 ## Motion Detection
 For create a dataset to train and evaluate I use [motion_detection.ipynb](motion_detection.ipynb) notebook, the motion detection
 developed here is base on this [blog post](https://www.analyticsvidhya.com/blog/2020/04/vehicle-detection-opencv-python/),
- what I did is instead of print contours of vehicles as the blog did I store in a file the frames where a motion is detected with this process I was able to get more than one thousand pictures to use as posible candidates for the Mask RCNN.
+ what I did is instead of print contours of vehicles as the blog did I store in a file the frames where a motion is detected with this process I was able to get more than one thousand pictures to use as posible candidates for the Mask RCNN training.
 
 ## Mask RCNN
 
 The Mask CRNN developed in [vehicle_detection.ipynb](vehicle_detection.ipynb) is base on [Matterport](https://github.com/matterport/Mask_RCNN)
 implementation and I follow the [balloon](https://github.com/matterport/Mask_RCNN/tree/master/samples/balloon) example. 
 For made the installation simpler and do not fight with dependencies issues I packaged the matterport project and uploaded to 
-pypi with the name `mrcnn-colab` the version 2.1 match with the matterport version at the moment of this project was relase.
+pypi with the name [mrcnn-colab](https://pypi.org/project/mrcnn-colab/#files) the version 2.1 match with the matterport version at the moment of this project was relase.
 ### Train
 For training the model first you need create a class and extend from `mrcnn.Config.config` then override the following variables.
 ```python
@@ -41,7 +41,7 @@ class CustomDataset(utils.Dataset):
 ```
 
 #### Annotations
-The annotations file use by the train were created with [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/),
+The annotations file use for train were created with [VGG Image Annotator (VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/),
 this implementation for the sake of simplicity only accept one class per picture. The following json is a sample of VIA.
 ```json
 {
